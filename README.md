@@ -4,3 +4,5 @@ I wanted to build a simple server in Go that would respond to Github webhooks an
 When I finally figured out how to do it, I decided I should make this public so nobody else has to go through the pain of figuring it out.
 
 So here it is, already-figured-out Github webhook authentication in Golang.
+
+Huge thanks to [SimonWaldherr](https://github.com/SimonWaldherr/) for [this file](https://github.com/SimonWaldherr/golang-examples/blob/master/beginner/hashing.go)
